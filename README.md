@@ -69,10 +69,10 @@
 ![AI_Inspect.gif](Content/DEMO_MEDIA/AI_Inspect.gif)
 
 ### Имитация диалога
-![AI_Talk1.gif]()
+![AI_Talk1.gif](Content/DEMO_MEDIA/AI_Talk1.gif)
 
 Разговор также может прерватся при обнаружении противника.
-![AI_Talk2.gif]()
+![AI_Talk2.gif](Content/DEMO_MEDIA/AI_Talk2.gif)
 
 ### Реакция на шум
 
@@ -89,14 +89,14 @@
 ### Ranged AI (дальний бой)
 
 Перед выстрелом проверяет есть ли на пути союзник(sphere trace желтого цвета).
-![AI_Ranged1.gif]()
+![AI_Ranged1.gif](Content/DEMO_MEDIA/AI_Ranged1.gif)
 
 Прячется за укрытие если атака в кулдауне и выглядывает чтобы выстрелить.
-![AI_Ranged2.gif]()
+![AI_Ranged2.gif](Content/DEMO_MEDIA/AI_Ranged2.gif)
 
 
 Пытается держать дистанцию если рядом нету укрытий.
-![AI_Ranged3.gif]()
+![AI_Ranged3.gif](Content/DEMO_MEDIA/AI_Ranged3.gif)
 
 
 
