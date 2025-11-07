@@ -18,6 +18,7 @@
 
 (0.6 + 0.5 + 0 + 0 + 0 + 0) / 6 = 0.18
 
+![ShadowSys2](Content/DEMO_MEDIA/ShadowSys2.gif) ![ShadowSys3](Content/DEMO_MEDIA/ShadowSys3.gif)
 
 
 
